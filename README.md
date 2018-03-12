@@ -14,5 +14,5 @@ Minimum Visual Studio 2013 with updated .Net framework
 ## Authors
 
 * **Prashant Piprotar** - - [PrashPlus](https://github.com/prashplus)
-or visit my blog for more Tech Stuff
+and visit my blog for more Tech Stuff
 #http://www.prashplus.com
